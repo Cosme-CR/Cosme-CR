@@ -10,8 +10,8 @@ Estou comprometido em contribuir para a segurança cibernética e em desenvolver
 <center>
 <table>
     <tr>
-        <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-R&layout=compact&theme=dark" /></td>
-        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cosme-R&theme=dark"/></td>
+        <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-CR&layout=compact&theme=dark" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=Cosme-CR&theme=dark"/></td>
     </tr>  
   <tr>
     <td colspan="2">
