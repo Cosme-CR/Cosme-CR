@@ -1,11 +1,7 @@
 # Olá, Bem Vindo
 
 ---
-Sou desenvolvedor Python apaixonado pela área de segurança cibernética. Participei de maratonas de programação, 
-onde conquistei o 3º lugar em uma competição realizada no campus universitário. 
-Estou comprometido em contribuir para a segurança cibernética e em desenvolver projetos inovadores nessa área.
 
----
 
 <center>
 <table>
