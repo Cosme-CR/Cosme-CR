@@ -1,13 +1,13 @@
-🏆 3º lugar na maratona de programação (IFSP)<br>
+Ola
 
+🏆 3º lugar na maratona de programação (IFSP)bri<br>
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- 🌱 Aprendendo Flutter para desenvolvimento mobile multiplataforma  
-- 🔐 Cibersegurança ofensiva: pentest
-- 🐧 Automatizando tarefas no Linux com Bash e Python 
+- 🔐 Aprendendo Cibersegurança ofensiva: pentest
+- 🐧 Aprendendo Automatizando tarefas no Linux com Bash e Python 
 
 ---
 
