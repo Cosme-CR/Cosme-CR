@@ -6,8 +6,8 @@ Ola
 
 ## 🚀 Atualmente estudando
 
-- 🔐 Aprendendo Cibersegurança ofensiva: pentest
-- 🐧 Aprendendo Automatizando tarefas no Linux com Bash e Python 
+- 🔐 Cibersegurança ofensiva: pentest
+- 🐧 Automatizando tarefas no Linux com Bash e Python 
 
 ---
 
