@@ -1,6 +1,4 @@
-Ola
 
-🏆 3º lugar na maratona de programação (IFSP)bri<br>
 
 ---
 
