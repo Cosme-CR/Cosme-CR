@@ -11,8 +11,11 @@
 
 ## 🚀 Atualmente estudando
 
+- 🔐 **Cibersegurança ofensiva** – Pentest
+- 🐧 **Automatização de tarefas no Linux** – Shell Script e Python
+- 💻 **Programação** – C++, Java
+- 🎨 **Modelagem 3D** – Blender
 - 🔐 Cibersegurança ofensiva: pentest
-- 🐧 Automatizando tarefas no Linux com Bash e Python 
 
 ---
 
