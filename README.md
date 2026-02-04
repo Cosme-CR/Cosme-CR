@@ -7,6 +7,8 @@
  |_|  |_|_( ) |_____| |_| |_| |_|  \_____\___/|___/_| |_| |_|\___| |_|  \_\_|_.__/ \___|_|_|  \___/ 
           |/                                                                                                                                                </pre>                                                                                                                          
 
+
+
 ---
 
 ## 🚀 Atualmente estudando
@@ -48,6 +50,12 @@
 </p>
 
 
+
+
 ---
+[![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)
+---
+
 
 ![](finalgit.gif)
