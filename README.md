@@ -1,10 +1,15 @@
 
-# 👋 Hello World, I’m **Cosme **
+# 👋 Hello World, I’m Cosme 
 
 - 🎓 Estudante de Desenvolvimento de Sistemas (2/3)- **SENAI** 
-- 🐧 Linux Enthusiast 
-- 🔐 Cybersecurity Aspirant
+- 🐧 Entusiasta em Linux
+- 🔐 Aspirante em Cibersegurança
 
+## 🚀 Sobre Mim
+- 📚 Atualmente focado em **Node.js**, **Bancos de Dados SQL** e **C++**.
+- 🐧 Usuário de **Arch Linux** (KISS philosophy) e apaixonado por Open Source.
+- 🔐 Estudando **Segurança da Informação**, com foco em Pentest e hardening.
+- 🎨 Também me arrisco em modelagem 3D com **Blender**.
 
 
 ## 🛠️ Languages & Tools
@@ -37,22 +42,20 @@
 
 ---
 
-## 📞 Contact
+## 📞 Contato
 [![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Cosme-181717?logo=github&logoColor=white)](https://github.com/Cosme-CR)
 
 ---
+## 🧩 Além do Terminal
+* **🎮 Jogos:** Souls-like (Elden Ring/Bloodborne), Terraria e The Witcher.
+* **🎧 Música:** Metal Sinfônico e Eletrônica Experimental (Seekae).
+* **📚 Literatura:** H.P. Lovecraft, Platão e Distopias (Orwell).
+* **📖 Novels:** Fã de *Reverend Insanity* e *Magic Emperor*.
 
-### 🎮 A Bit About Me 
-- 🎧 Electronic music and classic rock  
-- 🎲 Strategy & RPG (Civilization VI, The Witcher)  
-- 📚 Science‑fiction reading and information‑security articles  
-
----
-
-![](finalgit.gif)
-
+<p align="center">
+  <img src="finalgit.gif" width="600" />
+</p>
 
 
 
