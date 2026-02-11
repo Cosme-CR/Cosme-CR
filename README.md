@@ -1,61 +1,66 @@
-<pre>
-  _    _ _     _____ _              _____                           _____  _ _          _           
- | |  | (_)   |_   _( )            / ____|                         |  __ \(_) |        (_)          
- | |__| |_      | | |/ _ __ ___   | |     ___  ___ _ __ ___   ___  | |__) |_| |__   ___ _ _ __ ___  
- |  __  | |     | |   | '_ ` _ \  | |    / _ \/ __| '_ ` _ \ / _ \ |  _  /| | '_ \ / _ \ | '__/ _ \ 
- | |  | | |_   _| |_  | | | | | | | |___| (_) \__ \ | | | | |  __/ | | \ \| | |_) |  __/ | | | (_) |
- |_|  |_|_( ) |_____| |_| |_| |_|  \_____\___/|___/_| |_| |_|\___| |_|  \_\_|_.__/ \___|_|_|  \___/ 
-          |/                                                                                                                                                </pre>                                                                                                                          
+
+# 👋 Hello World, I’m **Cosme **
+
+- 🎓 Estudante de Desenvolvimento de Sistemas (2/3)- **SENAI** 
+- 🐧 Linux Enthusiast 
+- 🔐 Cybersecurity Aspirant
 
 
 
----
-
-## 🚀 Atualmente estudando
-
-- 🔐 **Cibersegurança ofensiva** – Pentest
-- 🐧 **Automatização de tarefas no Linux** – Shell Script e Python
-- 💻 **Programação** – C++, Java
-- 🎨 **Modelagem 3D** – Blender
----
-
-### 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50" />
+  <!-- Operating System -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" alt="Arch Linux" title="Arch Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" title="Linux"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <!-- Editors -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" alt="Neovim" title="Neovim"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"/>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3" title="CSS3"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" title="Git"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-
+  <!-- Hardware / IoT -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" alt="Arduino" title="Arduino"/>
 </p>
 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-CR&layout=compact&theme=midnight-purple&hide_border=true&hide=,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Cosme-CR&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
-</p>
-
-
-
+## 📞 Contact
+[![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Cosme-181717?logo=github&logoColor=white)](https://github.com/Cosme-CR)
 
 ---
-[![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)
+
+### 🎮 A Bit About Me 
+- 🎧 Electronic music and classic rock  
+- 🎲 Strategy & RPG (Civilization VI, The Witcher)  
+- 📚 Science‑fiction reading and information‑security articles  
+
 ---
+
+![](finalgit.gif)
+
+
+
+
+
+
+
+
+
 
 
 ![](finalgit.gif)
