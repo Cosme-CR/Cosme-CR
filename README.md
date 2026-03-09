@@ -7,8 +7,7 @@
 
 ## 🚀 Sobre Mim
 - 📚 Atualmente focado em **Node.js**, **Bancos de Dados SQL** e **C++**.
-- 🐧 Usuário de **Arch Linux** (KISS philosophy) e apaixonado por Open Source.
-- 🔐 Estudando **Segurança da Informação**, com foco em Pentest e hardening.
+- 🔐 Estudando **Segurança da Informação**, Pentest e hardening.
 - 🎨 Também me arrisco em modelagem 3D com **Blender**.
 
 
