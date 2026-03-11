@@ -1,14 +1,10 @@
 
-# 👋 Hello World, I’m Cosme 
+#  Hello World, I’m Cosme 
 
-- 🎓 Estudante de Desenvolvimento de Sistemas (2/3)- **SENAI** 
-- 🐧 Entusiasta em Linux
-- 🔐 Aspirante em Cibersegurança
+-  Estudante de Desenvolvimento de Sistemas (2/3)- **SENAI** 
+-  Atualmente Estudando **Node.js**, **Bancos de Dados SQL** e **C**.
+-  Focado em **Segurança da Informação, Linux**, Pentest e hardening.
 
-## 🚀 Sobre Mim
-- 📚 Atualmente focado em **Node.js**, **Bancos de Dados SQL** e **C++**.
-- 🔐 Estudando **Segurança da Informação**, Pentest e hardening.
-- 🎨 Também me arrisco em modelagem 3D com **Blender**.
 
 
 ## 🛠️ Languages & Tools
@@ -22,9 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" alt="Neovim" title="Neovim"/>
 
   <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" title="C++"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <!-- Web -->
@@ -38,31 +36,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" alt="Arduino" title="Arduino"/>
 </p>
 
+##  Estatisticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-CR&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cosme-CR&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
+</p>
 
----
 
-## 📞 Contato
+
+##  Contato
 [![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)  
 
----
-## 🧩 Além do Terminal
-* **🎮 Jogos:** Souls-like (Elden Ring/Bloodborne), Terraria e The Witcher.
-* **🎧 Música:** Metal Sinfônico e Eletrônica Experimental (Seekae).
-* **📚 Literatura:** H.P. Lovecraft, Platão e Distopias (Orwell).
-* **📖 Novels:** Fã de *Reverend Insanity* e *Magic Emperor*.
+
+
 
 <p align="center">
   <img src="finalgit.gif" width="600" />
 </p>
 
 
-
-
-
-
-
-
-
-
 ![](finalgit.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
