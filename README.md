@@ -1,13 +1,13 @@
+#  Hello World, I’m Cosme
 
-#  Hello World, I’m Cosme 
+> **Security Enthusiast | Linux User | Systems Development Student**
 
--  Estudante de Desenvolvimento de Sistemas (2/3)- **SENAI** 
--  Atualmente Estudando **Node.js**, **Bancos de Dados SQL** e **C**.
--  Focado em **Segurança da Informação, Linux**, Pentest e hardening.
+-  Estudante de **Desenvolvimento de Sistemas** (2/3) no **SENAI**.
+-  Atualmente aprofundando em **Node.js**, **Bancos de Dados SQL** e **Linguagem C**.
+-  Focado em **Segurança da Informação**: Pentest, Hardening.
+-  Arch Linux & Neovim user.
 
-
-
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <!-- Operating System -->
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="45" alt="Arduino" title="Arduino"/>
 </p>
 
-##  Estatisticas
+##  Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme-CR&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=Cosme-CR&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
@@ -43,7 +43,7 @@
 
 
 
-##  Contato
+##  Contact
 [![Email](https://img.shields.io/badge/Email-cosmecruztm1@proton.me-6D4AFF?logo=protonmail&logoColor=white)](mailto:cosmecruztm1@proton.me)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosme_Ribeiro-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Cosme-Ribeiro/)  
 
@@ -54,12 +54,15 @@
   <img src="finalgit.gif" width="600" />
 </p>
 
+## Profile views
+<p align="center">
+  <img src="https://count.getloli.com/get/@Cosme-CR?theme=gelbooru" />
+</p>
 
-![](finalgit.gif)
 
 
 
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 
 
