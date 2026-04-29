@@ -1,6 +1,6 @@
 #  Hello World, I’m Cosme
 
-> **Security Enthusiast | Linux User | Systems Development Student**
+> **Systems Development Student | Linux User | Vim User**
 
 -  Estudante de **Desenvolvimento de Sistemas** (2/3) no **SENAI**.
 -  Atualmente aprofundando em **Node.js**, **Bancos de Dados SQL** e **Linguagem C**.
